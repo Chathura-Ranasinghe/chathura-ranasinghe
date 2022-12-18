@@ -1,10 +1,9 @@
-<h1 align="center">Dilshan M. Karunarathne</h1>
+<h1 align="center">Chathura Ranasinghe</h1>
 
-<center><img align="center" src="https://phoenixfreehost.000webhostapp.com/uploads/background.jpg" alt="dilshan" /></center>
+<center><img align="center" src="https://github.com/ChatDil0/ChathuraRanasinghe/blob/main/assets/img/165384801_1388688508164491_9131380900901863803_n.jpg" alt="chathura" /></center>
 
 <h3 align="center">
-  I'm a Computer Science student, Eastern University of Sri Lanka. Also a programmer and a blogger. Interested in de-centralized application development. I have studied
-  Computer Science, Cryptography, Computer Architecture and Web app development. Also an open-source enthusiast.
+  I am a second-year undergraduate student at Eastern University Sri Lanka. I am a programmer, specializing in problem-solving and web development. Also, I works as a Fiverr Graphic designer and Front end Web developer for the last two years.
 </h3>
 
 <p></p><p></p>
@@ -22,7 +21,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **React | .NET**
 
 - 📝 I regularly write articles on [http://dilshan.cf/](http://dilshan.cf/)
 
