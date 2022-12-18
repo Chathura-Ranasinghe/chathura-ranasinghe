@@ -53,5 +53,3 @@
 <a href="https://www.instagram.com/__chathura._.ranasinghe__/"><img src="https://img.shields.io/badge/Insta-chathura-red"/></a>
 <a href="https://www.facebook.com/chathura.ranasinghe.zebo"><img src="https://img.shields.io/badge/fb-chathura-blue"/></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
