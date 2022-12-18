@@ -48,10 +48,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://chatdil0.github.io/about-me/index.html"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/chathura-ranasinghe-925952222"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/__chathura._.ranasinghe__/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/chathura.ranasinghe.zebo"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://chatdil0.github.io/about-me/index.html"><img src=https://img.shields.io/badge/Web-chathura-yellow"/></a>
+<a href="https://www.linkedin.com/in/chathura-ranasinghe-925952222"><img src="https://img.shields.io/badge/Link-chathura-blue"/></a>
+<a href="https://www.instagram.com/__chathura._.ranasinghe__/"><img src="https://img.shields.io/badge/Insta-chathura-red"/></a>
+<a href="https://www.facebook.com/chathura.ranasinghe.zebo"><img src="https://img.shields.io/badge/fb-chathura-blue"/></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
