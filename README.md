@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://github.com/ChatDil0/ChathuraRanasinghe/blob/main/Img/profile.jpg)
+![chathuraranasinghe Banner](https://github.com/ChatDil0/ChathuraRanasinghe/blob/main/Img/profile.jpg)
 
 ## 👋 &nbsp;Hey there! I'm Chathura
 
