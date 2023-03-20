@@ -1,4 +1,4 @@
-![chathuraranasinghe Banner](https://github.com/ChatDil0/ChathuraRanasinghe/blob/main/Img/profile.jpg)
+![chathuraranasinghe Banner](https://github.com/ChatDil0/ChathuraRanasinghe/blob/main/cover.jpg)
 
 ## 👋 &nbsp;Hey there! I'm Chathura
 
