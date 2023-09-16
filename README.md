@@ -1,15 +1,15 @@
-![chathuraranasinghe Banner](https://github.com/ChatDil0/ChathuraRanasinghe/blob/main/cover.jpg)
+![chathuraranasinghe Banner](https://github.com/chathura-ranasinghe/ChathuraRanasinghe/blob/main/cover.jpg)
 
 ## 👋 &nbsp;Hey there! I'm Chathura
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at the Trincomalee Campus, Eastern University.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at chathurar.99.bc@gmail.com! I'll try to respond as soon as I can.\
+💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp; I'm studying Computer Science at the Trincomalee Campus, Eastern University.\
+🌱 &nbsp; I'm on track to learn more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp; I pursue Graphic Design and Blog Writing as hobbies/side hustles in my free time.\
+💬 &nbsp; Feel free to contact me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp; You can shoot me an email at chathurar.99.bc@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Linkedin-Profile](https://www.linkedin.com/in/chathura-ranasinghe-925952222) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -40,15 +40,15 @@
 
 <p align="center">
 <a href="https://github.com/ChatDil0">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChatDil0&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChatDil0&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chathura-ranasinghe&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chathura-ranasinghe&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://chatdil0.github.io/about-me/index.html"><img src=https://img.shields.io/badge/Web-chathura-yellow"/></a>
+<a href="https://chathura-ranasinghe.github.io/about-me/index.html"><img src=https://img.shields.io/badge/Web-chathura-yellow"/></a>
 <a href="https://www.linkedin.com/in/chathura-ranasinghe-925952222"><img src="https://img.shields.io/badge/Link-chathura-blue"/></a>
 <a href="https://www.instagram.com/__chathura._.ranasinghe__/"><img src="https://img.shields.io/badge/Insta-chathura-red"/></a>
 <a href="https://www.facebook.com/chathura.ranasinghe.zebo"><img src="https://img.shields.io/badge/fb-chathura-blue"/></a>
