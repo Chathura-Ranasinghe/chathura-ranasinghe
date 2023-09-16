@@ -39,7 +39,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ChatDil0">
+<a href="https://github.com/chathura-ranasinghe">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chathura-ranasinghe&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chathura-ranasinghe&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
@@ -48,7 +48,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://chathura-ranasinghe.github.io/about-me/index.html"><img src=https://img.shields.io/badge/Web-chathura-yellow"/></a>
+<a href="https://chathura-ranasinghe.web.app"><img src=https://img.shields.io/badge/Web-chathura-yellow"/></a>
 <a href="https://www.linkedin.com/in/chathura-ranasinghe-925952222"><img src="https://img.shields.io/badge/Link-chathura-blue"/></a>
 <a href="https://www.instagram.com/__chathura._.ranasinghe__/"><img src="https://img.shields.io/badge/Insta-chathura-red"/></a>
 <a href="https://www.facebook.com/chathura.ranasinghe.zebo"><img src="https://img.shields.io/badge/fb-chathura-blue"/></a>
