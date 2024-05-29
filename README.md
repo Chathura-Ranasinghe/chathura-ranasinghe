@@ -39,10 +39,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/chathura-ranasinghe">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chathura-Ranasinghe&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=false" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chathura-Ranasinghe&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chathura-Ranasinghe&show_icons=true&theme=transparent)
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathura-Ranasinghe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
