@@ -38,8 +38,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chathura-Ranasinghe&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chathura-Ranasinghe&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<p align="center">
+<a href="https://github.com/chathura-ranasinghe">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chathura-Ranasinghe&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chathura-Ranasinghe&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
