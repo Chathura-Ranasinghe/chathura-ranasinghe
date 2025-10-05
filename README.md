@@ -12,6 +12,8 @@
 ✉️ &nbsp; You can shoot me an email at chathurar.99.bc@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Linkedin-Profile](https://www.linkedin.com/in/chathura-ranasinghe-925952222) for more details about me. I'm open to feedback and suggestions!
 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/chathura-ranasinghe)
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
